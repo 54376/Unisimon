@@ -5,6 +5,6 @@
  <body>
   <background-color(pink);
  <?php echo '<p>Uwu</p>'; ?>
- "<body style='background-color:pink'>";
+ <body style='background-color:pink'>;
  </body>
 </html>
